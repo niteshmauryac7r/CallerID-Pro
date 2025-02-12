@@ -28,7 +28,7 @@ CallerID-Pro is a REST API built using Django for user identification, spam dete
 1. **Clone the Repository**
    ```sh
    git clone https://github.com/niteshmauryac7r/CallerID-Pro.git
-   cd instahyre
+   cd CallerID_Pro
    ```
 2. **Create a Virtual Environment**
    ```sh

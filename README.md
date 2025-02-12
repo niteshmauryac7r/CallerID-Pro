@@ -79,7 +79,7 @@ python3 manage.py test
 ```
 
 ## Postman Collection
-- To test the APIs, import `Instahyre.postman_collection.json` in Postman.
+- To test the APIs, import `CallerID_pro.postman_collection.json` in Postman.
 - Update the environment URL according to your system.
 - Authorization Token is created in the login API under the key "access".
 - Use "Authorization: Bearer <access token>" in request headers.

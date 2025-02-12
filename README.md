@@ -1,8 +1,6 @@
-# CallerID-Pro
+# CallerID-Pro - User Identification and Spam Detection API
 
-# Instahyre - User Identification and Spam Detection API
-
-Instahyre is a REST API built using Django for user identification, spam detection, and phone number lookup. It provides functionalities for user registration, authentication, contact searching, and marking numbers as spam.
+CallerID-Pro is a REST API built using Django for user identification, spam detection, and phone number lookup. It provides functionalities for user registration, authentication, contact searching, and marking numbers as spam.
 
 ## Features
 
@@ -29,7 +27,7 @@ Instahyre is a REST API built using Django for user identification, spam detecti
 ### Setup
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/instahyre.git
+   git clone https://github.com/niteshmauryac7r/CallerID-Pro.git
    cd instahyre
    ```
 2. **Create a Virtual Environment**

@@ -65,7 +65,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'Instahyre.urls'
+ROOT_URLCONF = 'CallerID_pro.urls'
 
 TEMPLATES = [
     {
@@ -83,7 +83,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'Instahyre.wsgi.application'
+WSGI_APPLICATION = 'CallerID_pro.wsgi.application'
 
 
 # Database
